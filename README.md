@@ -151,7 +151,8 @@ Excel
 
 Download the repository
 
-Open the .pbix file in Power BI Desktop
+Open the Swiggy data analysis.pbix file in Power BI Desktop :
+Dashboard look like: https://github.com/Avrodita/power-Bi-project/blob/main/Swiggy%20Dashboard%20Ananlysis.png
 
 Refresh data (if required)
 
